@@ -30,7 +30,7 @@
 | :------------: | :------------------------------------------: |
 | **博&emsp;客** |          **<https://www.ljxu.top>**          |
 | **笔&emsp;记** | **<http://www.ljxu.top/category/mianjing/>** |
-|   **播放器**   |    **<https://netease-music.fe-mm.com>**     |
+|   **播放器**   |    **<http://music.ljxu.top/>**     |
 |                |                                              |
 
 ### Languages and Tools
