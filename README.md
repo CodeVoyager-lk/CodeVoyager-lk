@@ -28,7 +28,7 @@
 
 |   主&emsp;页   |     <http://blog.ljxu.top>      |
 | :------------: | :------------------------------------------: |
-| **博&emsp;客** |          **<https://www.ljxu.top>**          |
+| **博&emsp;客** |          **<http://www.ljxu.top/>**          |
 |   **个人播放器**   |    **<http://music.ljxu.top/>**     |
 
 
