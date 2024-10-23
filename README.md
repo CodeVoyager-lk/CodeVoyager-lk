@@ -26,12 +26,11 @@
 
 
 
-|   主&emsp;页   |     <https://github.com/CodeVoyager-lk>      |
+|   主&emsp;页   |     <http://blog.ljxu.top>      |
 | :------------: | :------------------------------------------: |
 | **博&emsp;客** |          **<https://www.ljxu.top>**          |
-| **笔&emsp;记** | **<http://www.ljxu.top/category/mianjing/>** |
-|   **播放器**   |    **<http://music.ljxu.top/>**     |
-|                |                                              |
+|   **个人播放器**   |    **<http://music.ljxu.top/>**     |
+
 
 ### Languages and Tools
 
